@@ -30,7 +30,29 @@
   width:100%;
 }
 
+.main-image {
+  height: 66vh;
+  overflow: hidden;
+}
+
+.main-image img {
+  width: 100%;
+  position: middle;
+}
+
 .headline h2 span{
   background-color: white;
   padding: 10px 20px;
+}
+
+.image-container {
+  width:640px;
+}
+
+.image-body {
+    width:100%;
+}
+
+.attribution {
+  color: grey;
 }
