@@ -1,0 +1,36 @@
+/*.hero-image {
+    width: 1425px;
+    height: 667px;
+    margin-left: 0px;
+    margin-top: -150px;
+    visibility: visible;
+    opacity: 1;
+    transition: opacity 400ms ease-in-out;
+}
+*/
+
+.work-image {
+  height: 426px;
+  width: 620px;
+}
+/*
+.work-image img {
+  height:100%;
+  width:100%;
+}*/
+
+.full-width-container {
+  background: url("../images/pp_01.jpg") no-repeat center center ;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: blue;
+  height: 66vh;
+  width:100%;
+}
+
+.headline h2 span{
+  background-color: white;
+  padding: 10px 20px;
+}
